@@ -10,8 +10,8 @@ If you do not know who I am or what
 this page is, DO NOT run this on your system!
 
 This script was tested on and is meant to be
-used ONLY on
-Alci Linux with Xanmod Edge (https://sourceforge.net/projects/alci/files/alci-iso-xanmod-edge/)
+used on
+RegadaOS
 and using it on any other system WILL MESS IT UP.
 
 *You should never run unknown scripts.
@@ -27,11 +27,11 @@ I will laugh at you.
 
 Usage:
 ```sh
-bash <(curl -s https://dwdeath.github.io/ArchFavApps/install_v4.sh)
+bash <(curl -s https://dwdeath.github.io/SUSEFavApps/install.sh)
 ```
 or
 ```sh
-curl -s https://dwdeath.github.io/ArchFavApps/
+curl -s https://dwdeath.github.io/SUSEFavApps/
 ```
 and run the bash code using copy+paste
 
@@ -39,6 +39,6 @@ THE SYSTEM WILL REBOOT AT THE END
 
 alternatively you can preform 
 ```sh
-git clone https://github.com/Dwdeath/ArchFavApps
+git clone https://github.com/Dwdeath/SUSEFavApps
 ```
 to get all of the scripts.
